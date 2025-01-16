@@ -1,4 +1,5 @@
 let Second_player: Sprite = null
+game.reset()
 null.drawRect(0, 0, 0, 0, 0)
 animation.runImageAnimation(
 null,
